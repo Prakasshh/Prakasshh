@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Prakasshh/image/blob/main/AT%20WORK%20(1).png?raw=true" alt="Prakash Prajapat - Data Analyst Banner">
+</p>
+
 <h1 align="center">Hi 👋, I'm Prakash Prajapat</h1>
 <h3 align="center">Query by query, chart by chart – A passionate Data Enthusiast from India</h3>
 <img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVtdGF4N2N4dml0YjIzbjF4a2hla2VwdmgwbHZldGJvbDRxNTVkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Thinking GIF" width="200"/>
