@@ -1,15 +1,10 @@
-<p align="center">
-  <img src="URL_TO_YOUR_BANNER_IMAGE" alt="Your Banner Alt Text">
-</p>
-
 <h1 align="center">Hi 👋, I'm Prakash Prajapat</h1>
 <h3 align="center">Query by query, chart by chart – A passionate Data Enthusiast from India</h3>
+<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVtdGF4N2N4dml0YjIzbjF4a2hla2VwdmgwbHZldGJvbDRxNTVkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Thinking GIF" width="200"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakasshh&label=Profile%20views&color=0e75b6&style=flat" alt="prakasshh" /> </p>
 
-<div style="float: right; margin-left: 20px;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVtdGF4N2N4dml0YjIzbjF4a2hla2VwdmgwbHZldGJvbDRxNTVkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Thinking GIF" width="200"/>
-</div>
+
 
 - 🔭 I’m currently working on **my skills**
 
