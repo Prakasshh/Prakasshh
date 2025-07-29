@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/Prakasshh/image/blob/main/AT%20WORK%20(1).png?raw=true" alt="Prakash Prajapat - Data Analyst Banner">
+  <img src="https://github.com/Prakasshh/Prakasshh/blob/main/AT%20WORK%20(1).png?raw=true" alt="Prakash Prajapat - Data Analyst Banner">
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Prakash Prajapat</h1>
 <h3 align="center">Query by query, chart by chart – A passionate Data Enthusiast from India</h3>
